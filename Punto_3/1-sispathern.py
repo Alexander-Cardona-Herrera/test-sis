@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""
+""" Module that print a concentric square
+    reciving as input any positive number
 """
 
 
